@@ -1,0 +1,28 @@
+.col-3{
+    display: flex;
+    flex-direction: column;
+}
+.card-body{
+    height: 640px;
+}
+.icons{
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px; 
+    display: inline-flex;
+
+}
+.icons i {
+    padding: 5px;
+}
+.Pmessage{
+    color: grey;
+    font-size: 14px;
+}
+.Cards{
+    display: flex;
+    flex-direction: column;
+}
+.bg-secondary-subtle{
+    width: 247px;
+}
